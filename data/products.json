@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2,
+    "title": "Mandarina",
+    "description": "MODIFICADO",
+    "price": 123,
+    "thumbnail": "sin foto",
+    "code": "137asd123asd",
+    "stock": 654654
+  },
+  {
+    "id": 3,
+    "title": "Morron Verde",
+    "description": "Verdura",
+    "price": 2223,
+    "thumbnail": "sin foto",
+    "code": "151gf",
+    "stock": 555
+  },
+  {
+    "id": 4,
+    "title": "Banana",
+    "description": "Fruta con mucho potacio",
+    "price": 1233,
+    "thumbnail": "sin foto",
+    "code": "311as",
+    "stock": 654654
+  },
+  {
+    "id": 5,
+    "title": "Morron Amarillo",
+    "description": "Verdura",
+    "price": 2223,
+    "thumbnail": "sin foto",
+    "code": "151agf",
+    "stock": 555
+  },
+  {
+    "id": 6,
+    "title": "Melon",
+    "description": "Fruta con mucha azucar",
+    "price": 1233,
+    "thumbnail": "sin foto",
+    "code": "3t11as",
+    "stock": 654654
+  },
+  {
+    "id": 7,
+    "product1": {
+      "title": "Manza Verde del bosque",
+      "description": "Fruto muy rico con mucho color y jugo dulce",
+      "price": 123,
+      "thumbnail": "sin foto",
+      "code": "137asd123asd",
+      "stock": 654654
+    }
+  },
+  {
+    "id": 8,
+    "title": "Manza Roja del bosque",
+    "description": "Fruto muy rico con mucho color",
+    "price": 123,
+    "thumbnail": "sin foto",
+    "code": "13123lkjlkjasd",
+    "stock": 654654
+  }
+]
